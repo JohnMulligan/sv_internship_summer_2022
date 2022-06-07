@@ -1,6 +1,6 @@
 Today, folks focused on specific use cases/widgets
 
-* Alison: Autocomplete
+* Alison: [Autocomplete](https://github.com/alisonqiu/SV-internship-Autocomplete-Component)
 * Zhihao: 
 * Haoyu: Cards
 * Jason: [Requests framework (Axios) & Plotly](https://github.com/JasonFang99/Voyage_Request_Test)
